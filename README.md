@@ -13,7 +13,8 @@ contents of repo:
 
 - two scripts, the starter code and the main one that i used to write scripts as well as write the analysis
 
-#references
+# references
+
 used mainly xpert learning assistant to help with errors with my code 
 
 slides from first lesson
